@@ -1,0 +1,13 @@
+export const FORM = document.getElementById('form');
+export const CITY_INPUT = document.getElementById('city');
+export const CITY = document.getElementById('actualCity');
+export const TEMP = document.getElementById('temperature');
+export const TEMP_FEELS_LIKE = document.getElementById('feels-like');
+export const TEMP_IMG = document.getElementById('img');
+export const ERROR_DIV = document.getElementById('error');
+export const LIKE_BUTTON = document.getElementById('likeButton');
+export const TITLE = document.getElementById('title');
+export const SUBTITLE = document.getElementById('subtitle');
+export const SUBTITLE_CITY = document.getElementById('currentCity');
+export const FAVORITES = document.getElementById('favorites');
+export const LIKE_BUTTON_ICON = document.getElementById('icon-heart');
